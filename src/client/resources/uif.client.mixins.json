@@ -3,7 +3,7 @@
 	"package": "com.amagon.mixin.client",
 	"compatibilityLevel": "JAVA_17",
 	"client": [
-		"ultimateinventoryfabricClientMixin"
+		"UltimateInventoryFabricClientMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
